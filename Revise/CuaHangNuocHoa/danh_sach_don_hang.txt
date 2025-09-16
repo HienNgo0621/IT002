@@ -1,0 +1,28 @@
+---Thong tin don hang thu 1---
+Don hang: dh001 30/5/2018 28000
+	Thong tin khach hang: h001 nguyen van a hcm 0123456789
+Goi san pham:  Romantic  28000
+	Nuoc hoa: nuochoa1 Hoa hong Tieu chuan 200 4000
+	Dau goi: daugoi2 Da dau Tieu chuan kiem dinh 2 300 12000
+	Sua tam: suatam1 Da kho 600 12000
+---Thong tin don hang thu 1---
+Don hang: dh1 30/5 10500
+	Thong tin khach hang: h001 van a go cong 012345678
+Goi san pham:  Fresh-Air  10500
+	Nuoc hoa: hoa2 Hoa cuc  300 4500
+	Dau goi: goi2 Da kho  100 2000
+	Sua tam: tam2 Da nhon 100 4000
+---Thong tin don hang thu 1---
+Don hang: mh1 30/5 9000
+	Thong tin khach hang: h1 van a 234 hcm 0123456
+Goi san pham: goi2 Fresh-Air ngon 9000
+	Nuoc hoa: hoa2 Hoa cuc  200 3000
+	Dau goi: 234 Da kho  100 2000
+	Sua tam: dakho1 Da kho 200 4000
+---Thong tin don hang thu 1---
+Don hang: dk1 20/3 6000
+	Thong tin khach hang: kh1 van a 123 01244
+Goi san pham: uoc1 Romantic roman 6000
+	Nuoc hoa: nuocha1 Hoa hong Tieu chuan 100 2000
+	Dau goi: dg1 Da kho  100 2000
+	Sua tam: st1 Da kho 100 2000

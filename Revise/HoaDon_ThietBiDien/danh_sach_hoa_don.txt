@@ -1,0 +1,4 @@
+Hoa don: hd1 30/5 5900
+	Thong tin khach hang: h1 van a hcm 012345
+		May quat: hoinuoc2 May quat hoi nuoc quat hoi nuoc cong ty aa 1200 3 2
+		May lanh: 2d May lanh 2 chieu may lanh 2 chieu  cong ty aa 3500 Co Inverter Khang khuan Khu mui 1
